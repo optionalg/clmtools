@@ -184,6 +184,28 @@ files = {
 	 "694519309_817d37fd1d_b.jpg" : "http://farm2.staticflickr.com/1325/694519309_817d37fd1d_b.jpg",
 	 "7982522108_8105c14a96.jpg" : "http://farm9.staticflickr.com/8458/7982522108_8105c14a96.jpg",
 	 "863846941_4f2d5a4009_z.jpg" : "http://farm2.staticflickr.com/1368/863846941_4f2d5a4009_z.jpg?zz=1",
+    "7044977645_22dbfb8713_c.jpg" : "https://c2.staticflickr.com/8/7091/7044977645_22dbfb8713_c.jpg",
+    "3178893181_42fa5ac4a1_b.jpg" : "https://c2.staticflickr.com/4/3097/3178893181_42fa5ac4a1_b.jpg",
+    "3100483796_1175ab11c6.jpg" : "https://c2.staticflickr.com/4/3175/3100483796_1175ab11c6.jpg",
+    "4661743483_8484943f7e_b.jpg" : "https://c1.staticflickr.com/5/4067/4661743483_8484943f7e_b.jpg",
+    "5526117482_d0a49ab561_b.jpg" : "https://c2.staticflickr.com/6/5012/5526117482_d0a49ab561_b.jpg",
+    "72bd04601d723168b646d0c22d047c23.jpg" : "https://s-media-cache-ak0.pinimg.com/736x/72/bd/04/72bd04601d723168b646d0c22d047c23.jpg",
+    "5715469987_641b579ed2_b.jpg" : "https://c1.staticflickr.com/3/2362/5715469987_641b579ed2_b.jpg",
+    "woman-smiling.jpg" : "http://images.scienceworldreport.com/data/images/full/7036/woman-smiling.jpg",
+    "6528950925_7134437034_o.jpg" : "https://farm8.staticflickr.com/7168/6528950925_7134437034_o.jpg",
+    "996b83019f25ea8008e59ef952a0b02c.jpg" : "https://s-media-cache-ak0.pinimg.com/736x/99/6b/83/996b83019f25ea8008e59ef952a0b02c.jpg",
+    "9553153286_3f23821500.jpg" : "https://farm3.staticflickr.com/2894/9553153286_3f23821500.jpg",
+    "4870538437_34386fb112.jpg" : "https://c1.staticflickr.com/5/4134/4870538437_34386fb112.jpg",
+    "bigsmile.jpg" : "https://singlecare.com/blog/wp-content/uploads/2015/08/bigsmile.jpg",
+    "6448578013_1095044306_o_d.jpg" : "https://farm8.staticflickr.com/7008/6448578013_1095044306_o_d.jpg",
+    "15868222450_68431282ae_b.jpg" : "https://c2.staticflickr.com/8/7549/15868222450_68431282ae_b.jpg",
+    "14072281378_f812ed67a5_b.jpg" : "https://c2.staticflickr.com/6/5558/14072281378_f812ed67a5_b.jpg",
+    "5747609360_e2e2817cc1.jpg" : "https://c2.staticflickr.com/4/3578/5747609360_e2e2817cc1.jpg",
+    "9364122129_56e67c8c52_b.jpg" : "https://c2.staticflickr.com/6/5463/9364122129_56e67c8c52_b.jpg",
+    "5614050826_0fca848f7f_o_d.jpg" : "https://farm6.staticflickr.com/5062/5614050826_0fca848f7f_o_d.jpg",
+    "4724758341_11496fbb51_b.jpg" : "https://c2.staticflickr.com/2/1120/4724758341_11496fbb51_b.jpg",
+    "3400490426_ac7354d117_z.jpg" : "https://farm4.staticflickr.com/3628/3400490426_ac7354d117_z.jpg"
+
 }
 
 for fi, url in files.iteritems():
