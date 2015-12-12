@@ -115,7 +115,6 @@ files = {
 	 "sexy_angry_face_by_tsene-d50yrp6.jpg" : "http://fc01.deviantart.net/fs70/f/2012/144/3/d/sexy_angry_face_by_tsene-d50yrp6.jpg",
 	 "smile-it-could-make-you-happier_1.jpg" : "http://www.scientificamerican.com/media/inline/smile-it-could-make-you-happier_1.jpg",
 	 "superstock_255-11889.jpg" : "http://wwwdelivery.superstock.com/WI/223/255/PreviewComp/SuperStock_255-11889.jpg",
-	 "SuperStock_1569R-9019411.jpg" : "http://wwwdelivery.superstock.com/WI/223/1569/PreviewComp/SuperStock_1569R-9019411.jpg",
 	 "surprised_man.jpg" : "http://4.bp.blogspot.com/-8XjwZ2hO9Q8/TumRtrSAmUI/AAAAAAAAAts/TJt-uHluWSM/s1600/surprised.jpg",
 	 "Surprised-face.jpg" : "http://s3.amazonaws.com/rapgenius/1bnrrPdsSYib7Dt0eIsa_surprised_face.jpg",
 	 "surprised.jpg" : "http://danielakawmd.files.wordpress.com/2010/03/surprised.jpg",
